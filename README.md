@@ -194,7 +194,7 @@ Before you begin, ensure you have the following installed and configured:
 ## 📁 Project Structure
 
 ```
-simple_app/
+Simple_Task_Manager/
 ├── .github/
 │   └── workflows/
 │       ├── pipeline.yml          # CI pipeline (build & push)
@@ -225,8 +225,8 @@ simple_app/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/isirakatakumbura/simple_app.git
-cd simple_app
+git clone https://github.com/isirakatakumbura/Simple_Task_Manager.git
+cd Simple_Task_Manager
 ```
 
 ### Step 2: Configure AWS Credentials
@@ -967,7 +967,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Isira Katakumbura**
 
 - GitHub: [@isirakatakumbura](https://github.com/isirakatakumbura)
-- Repository: [simple_app](https://github.com/isirakatakumbura/simple_app)
+- Repository: [Simple_Task_Manager](https://github.com/isirakatakumbura/Simple_Task_Manager)
 
 ---
 
@@ -986,8 +986,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you encounter any issues or have questions:
 
 1. Check the [Troubleshooting](#troubleshooting) section
-2. Review [GitHub Issues](https://github.com/isirakatakumbura/simple_app/issues)
-3. Create a new issue with detailed information
+2. Create a new issue with detailed information
 
 ---
 
